@@ -46,13 +46,13 @@
 </p>
 <h1></h1>
 
-<h1>Github trophy 🏆</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shan-tech" alt="shan-tech" /></a> </p><br>
-<h1>Stacks 🎈</h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shan-tech&show_icons=true&locale=en&layout=compact" alt="shan-tech" /></p>
+<h1>  Github trophy 🏆</h1>
+<p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=shan-tech" alt="shan-tech" /></a> </p><br>
+<h1> Stacks 🎈</h1>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shan-tech&show_icons=true&locale=en&layout=compact" alt="shan-tech" /></p><br>
 
-<h1>Stats ✨</h1>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shan-tech&show_icons=true&locale=en" alt="shan-tech" />
+<h1> Stats ✨</h1>
+<p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shan-tech&show_icons=true&locale=en" alt="shan-tech" /><br>
 </p>
 
 <h1>Github Streaks 🔥</h1>
