@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Swastha [A HealthCare project]**
 
-- 🌱 I’m currently learning **JS. **
+- 🌱 I’m currently learning **JS.**
 
 - 🤝 I’m looking for help with [FoodApp_test](https://github.com/Shan-tech/FoodApp_Test)
 
