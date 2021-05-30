@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Swastha [A HealthCare project]**
 
-- 🌱 I’m currently learning **Flutter and JS.**
+- 🌱 I’m currently learning **JS. **
 
 - 🤝 I’m looking for help with [FoodApp_test](https://github.com/Shan-tech/FoodApp_Test)
 
@@ -22,7 +22,7 @@
 ![Website](https://img.shields.io/badge/Programming%20-%2523017CEE.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![Website](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Website](https://img.shields.io/badge/Kotlin%20-%23ee5c1d.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Website](https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)
+<!--![Website](https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)-->
 ![Website](https://img.shields.io/badge/flask%20-%23181717.svg?&style=for-the-badge&logo=flask&logoColor=white)
 ![Website](https://img.shields.io/badge/FIREBASE-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white)
 ![Website](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
