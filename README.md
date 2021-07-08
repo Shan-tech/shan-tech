@@ -9,7 +9,7 @@
 
 - 🌱 Currently hands-on with **JS & stuffs**
 
-- 💡 I've done a [Health-care project "SWASTHA"](https://github.com/Shan-tech/Swastha) 
+<!-- - 💡 I've done a [Health-care project "SWASTHA"](https://github.com/Shan-tech/Swastha)  -->
 
 - 🤝 I’m looking for help with [FoodApp](https://github.com/Shan-tech/FoodApp_Test)
 
