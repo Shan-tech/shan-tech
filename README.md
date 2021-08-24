@@ -5,17 +5,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shan-tech&label=Profile%20views&color=0e75b6&style=flat" alt="shan-tech" /> </p><br>
 <h1>Myself:</h1>
 
-- 🔭 Headed towards **MERN** stack.
+- 🔭 Freelancing 🥤
 
-- 🌱 Currently hands-on with **JS & stuffs**
+- 🌱 Currently working with **MERN**
 
 <!-- - 💡 I've done a [Health-care project "SWASTHA"](https://github.com/Shan-tech/Swastha)  -->
 
-- 🤝 I’m looking for help with [FoodApp](https://github.com/Shan-tech/FoodApp_Test)
+- 🤝 I’m looking for help with my [FoodApp](https://github.com/Shan-tech/FoodApp_Test)
 
 - 📫 How to reach me: **shankaranand4415@gmail.com**
 
-- ⚡ Fun fact **"When life gives you LEMONADE, make LEMONS!"**
+- 🌐 Website: [Shan-tech](https://shan-tech.github.io/)
+
+- ⚡ Fun fact **"When life gives you LEMONADE, make LEMONS !"**
 <h1></h1>
 
 <h1>Skills 🚀</h1>
