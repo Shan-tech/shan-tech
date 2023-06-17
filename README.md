@@ -53,18 +53,18 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-%230079C1?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<h1>Connect with me 💫</h1>
+ <!--<h1>Connect with me 💫</h1>
 <p>
   
   <a href="https://www.linkedin.com/in/ShankarAnand4415" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="https://www.linkedin.com/in/ShankarAnand4415"  /></a>
-  <!--  <a href="https://stackoverflow.com/users/13693053/shankaranand" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="https://stackoverflow.com/users/13693053/shankaranand" /></a>
+   <a href="https://stackoverflow.com/users/13693053/shankaranand" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="https://stackoverflow.com/users/13693053/shankaranand" /></a>
   <a href="https://snapchat.com/add/cream_crust" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/snapchat.png" alt="cream_crust" /></a> 
  <a href="https://instagram.com/_cream_crust_" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram.png" alt="@_cream_crust_"/></a> -->
-  <!-- <a href="https://open.spotify.com/show/6FYHCeWDEInbh48uEvAK2c" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/spotify.png" alt="https://open.spotify.com/show/6FYHCeWDEInbh48uEvAK2c"  /></a> -->
+  <!-- <a href="https://open.spotify.com/show/6FYHCeWDEInbh48uEvAK2c" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/spotify.png" alt="https://open.spotify.com/show/6FYHCeWDEInbh48uEvAK2c"  /></a> 
   
 </p>
 <h1></h1>
-
+-->
 <!-- <h1>  Github trophy 🏆</h1>
 <p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=shan-tech" alt="shan-tech" /></a> </p><br> -->
 <h1> Stacks 🎈</h1>
