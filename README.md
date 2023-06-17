@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shan-tech&label=Profile%20views&color=0e75b6&style=flat" alt="shan-tech" /> </p><br>
 <h1>Myself:</h1>
-
-- As a senior student, technology is one of my passions. I've been a full-stack developer at <a href="https://vscaleup.com/">Vscaleup</a> for more than a year and have almost a year's worth of experience in freelancing! 🥤
+- B.tech Computer Science graduate!🧑‍💻 Technology is one of my passions. I've been a full-stack developer at <a href="https://vscaleup.com/">Vscaleup</a> for more than a year and have almost a year's worth of experience in freelancing! 🥤<br>
+- As part of my IT journey, I've advanced to the position of Member Technical Staff at <a href="https://www.zoho.com/">Zoho Corporation</a> in Chennai.
 
 <!-- - 🌱 Currently working with *MERN* -->
 
